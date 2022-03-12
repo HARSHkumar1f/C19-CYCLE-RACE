@@ -235,7 +235,7 @@ function reset(){
 //  yellowCG.destroyEach();
 //  redCG.destroyEach();
   
- distance = 50;
- }
+// distance = 50;
+ //}
 
 
